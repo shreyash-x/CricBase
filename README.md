@@ -1,4 +1,4 @@
-Data and Applications project based on Hospital's Database
+Data and Applications project based on Cricket Tournament's Database
 
 ### How to run:
 `python3 script.py`
